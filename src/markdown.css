@@ -1,0 +1,45 @@
+.markdown-content {
+    /* Add styles for markdown elements */
+  }
+  
+  .markdown-content h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+  }
+  
+  .markdown-content h2 {
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+  }
+  
+  .markdown-content p {
+    margin-bottom: 0.5em;
+  }
+  
+  .markdown-content ul, .markdown-content ol {
+    margin-left: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  
+  .markdown-content code {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+  }
+  
+  .markdown-content pre {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 1em;
+    border-radius: 5px;
+    overflow-x: auto;
+    margin-bottom: 0.5em;
+  }
+  
+  .markdown-content a {
+    color: #63b3ed;
+    text-decoration: underline;
+  }
