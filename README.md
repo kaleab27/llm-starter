@@ -1,6 +1,6 @@
 # AI Chat App
 
-An interactive AI chat application built with React, Vite, and Clerk authentication.
+An interactive AI chat application built with React, Langchin-js, and Clerk authentication.
 
 ## Features
 
