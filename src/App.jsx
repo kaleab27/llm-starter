@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import openai, { getConversationHistory, streamOpenAI } from "./ai";
+import { getConversationHistory, streamOpenAI } from "./ai";
 import { marked } from "marked";
 import "./markdown.css";
 import Sidebar from "./Sidebar";
