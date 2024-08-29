@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.4.5",
+    "@clerk/themes": "^2.1.24",
     "@langchain/groq": "^0.0.17",
     "langchain": "^0.2.17",
     "marked": "^14.0.0",
